@@ -1,5 +1,6 @@
 # Continual-Learning
 ## 2024
+Muppidi, A., Zhang, Z. and Yang, H., 2024. Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning. arXiv preprint arXiv:2405.16642.
 ## 2023
 Abbas, Z., Zhao, R., Modayil, J., White, A. and Machado, M.C., 2023, November. Loss of plasticity in continual deep reinforcement learning. In Conference on Lifelong Learning Agents (pp. 620-636). PMLR.
 ## 2022
