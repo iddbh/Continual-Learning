@@ -9,4 +9,4 @@
 ## 2022
 * Savage, N., 2022. [Learning over a lifetime](https://www.nature.com/articles/d41586-022-01962-y). Nature.
 ## 2021
-* Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. Continual backprop: Stochastic gradient descent with persistent randomness. arXiv preprint arXiv:2108.06325.<https://arxiv.org/pdf/2108.06325>
+* Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325.[[python](https://github.com/shibhansh/loss-of-plasticity)]
