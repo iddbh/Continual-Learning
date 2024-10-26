@@ -8,5 +8,6 @@
 * Irie, K., Csordás, R. and Schmidhuber, J., 2023. [Automating Continual Learning](https://openreview.net/pdf?id=5twh6pM4SR).
 ## 2022
 * Savage, N., 2022. [Learning over a lifetime](https://www.nature.com/articles/d41586-022-01962-y). Nature.
+* Zhang, Y., Pfahringer, B., Frank, E., Bifet, A., Lim, N.J.S. and Jia, Y., 2022, November. [Repeated augmented rehearsal: a simple but strong baseline for online continual learning](https://papers.neurips.cc/paper_files/paper/2022/file/5ebbbac62b968254093023f1c95015d3-Paper-Conference.pdf). In Proceedings of the 36th International Conference on Neural Information Processing Systems (pp. 14771-14783).[[python](https://github.com/YaqianZhang/RepeatedAugmentedRehearsal/tree/master)]
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325.[[python](https://github.com/shibhansh/loss-of-plasticity)]
