@@ -3,6 +3,7 @@
 * Muppidi, A., Zhang, Z. and Yang, H., 2024. [Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)
 . arXiv preprint arXiv:2405.16642. [[website](https://computationalrobotics.seas.harvard.edu/TRAC/) + [python](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file)]
 * Julian, J., Koh, Y.S. and Bifet, A., 2024, August. [Sketch-Based Replay Projection for Continual Learning](https://dl.acm.org/doi/pdf/10.1145/3637528.3671714). In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 1325-1335). [[python](https://github.com/jjul482/Sketched-Replay-Projection)]
+* Wang, L., Xie, J., Zhang, X., Huang, M., Su, H. and Zhu, J., 2024. [Hierarchical decomposition of prompt-based continual learning: Rethinking obscured sub-optimality](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9f8b5abc8e0926539ecbb492af7b2f1-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 36. [[python](https://github.com/thu-ml/HiDe-Prompt)]
 ## 2023
 * Abbas, Z., Zhao, R., Modayil, J., White, A. and Machado, M.C., 2023, November. [Loss of plasticity in continual deep reinforcement learning](https://www.nature.com/articles/s41586-024-07711-7). In Conference on Lifelong Learning Agents (pp. 620-636). PMLR. [[python](https://github.com/shibhansh/loss-of-plasticity)]
 * Irie, K., Csordás, R. and Schmidhuber, J., 2023. [Automating Continual Learning](https://openreview.net/pdf?id=5twh6pM4SR).
