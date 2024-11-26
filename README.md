@@ -13,5 +13,6 @@
 ## 2022
 * Savage, N., 2022. [Learning over a lifetime](https://www.nature.com/articles/d41586-022-01962-y). Nature.
 * Zhang, Y., Pfahringer, B., Frank, E., Bifet, A., Lim, N.J.S. and Jia, Y., 2022, November. [Repeated augmented rehearsal: a simple but strong baseline for online continual learning](https://papers.neurips.cc/paper_files/paper/2022/file/5ebbbac62b968254093023f1c95015d3-Paper-Conference.pdf). In Proceedings of the 36th International Conference on Neural Information Processing Systems (pp. 14771-14783).[[python](https://github.com/YaqianZhang/RepeatedAugmentedRehearsal/tree/master)]
+* Gaya, J.B., Doan, T., Caccia, L., Soulier, L., Denoyer, L. and Raileanu, R., 2022. [Building a subspace of policies for scalable continual learning](https://arxiv.org/pdf/2211.10445). arXiv preprint arXiv:2211.10445.
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325. [[python](https://github.com/shibhansh/loss-of-plasticity)]
