@@ -16,3 +16,5 @@
 * Gaya, J.B., Doan, T., Caccia, L., Soulier, L., Denoyer, L. and Raileanu, R., 2022. [Building a subspace of policies for scalable continual learning](https://arxiv.org/pdf/2211.10445). arXiv preprint arXiv:2211.10445.
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325. [[python](https://github.com/shibhansh/loss-of-plasticity)]
+* Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
+
