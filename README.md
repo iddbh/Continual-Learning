@@ -18,4 +18,5 @@
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325. [[python](https://github.com/shibhansh/loss-of-plasticity)]
 * Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
-
+## 2020
+* Gupta, G., Yadav, K. and Paull, L., 2020. [Look-ahead meta learning for continual learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf). Advances in Neural Information Processing Systems, 33, pp.11588-11598.[[python](https://github.com/montrealrobotics/La-MAML?tab=readme-ov-file)]
