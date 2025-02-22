@@ -1,4 +1,6 @@
 # Continual Learning
+## 2025
+* Muppidi, A., Zhang, Z. and Yang, H., 2025. [Fast trac: A parameter-free optimizer for lifelong reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b76d77e7095c6480ed827b85f0c2878-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.51169-51195.
 ## 2024
 * Muppidi, A., Zhang, Z. and Yang, H., 2024. [Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)
 . arXiv preprint arXiv:2405.16642. [[website](https://computationalrobotics.seas.harvard.edu/TRAC/) + [python](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file)]
