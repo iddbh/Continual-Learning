@@ -22,3 +22,5 @@
 * Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
 ## 2020
 * Gupta, G., Yadav, K. and Paull, L., 2020. [Look-ahead meta learning for continual learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf). Advances in Neural Information Processing Systems, 33, pp.11588-11598.[[python](https://github.com/montrealrobotics/La-MAML?tab=readme-ov-file)]
+## 2018
+* Cutkosky, A. and Orabona, F., 2018, July. [Black-box reductions for parameter-free online learning in banach spaces](https://proceedings.mlr.press/v75/cutkosky18a/cutkosky18a.pdf). In Conference On Learning Theory (pp. 1493-1529). PMLR.
