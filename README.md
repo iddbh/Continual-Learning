@@ -27,6 +27,7 @@
 * Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
 ## 2020
 * Gupta, G., Yadav, K. and Paull, L., 2020. [Look-ahead meta learning for continual learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf). Advances in Neural Information Processing Systems, 33, pp.11588-11598.[[python](https://github.com/montrealrobotics/La-MAML?tab=readme-ov-file)]
+* Ash, J. and Adams, R.P., 2020. [On warm-starting neural network training](https://proceedings.neurips.cc/paper/2020/file/288cd2567953f06e460a33951f55daaf-Paper.pdf). Advances in neural information processing systems, 33, pp.3884-3894.
 ## 2019
 * Cutkosky, A., 2019, June. [Combining online learning guarantees](https://proceedings.mlr.press/v99/cutkosky19b/cutkosky19b.pdf). In Conference on Learning Theory (pp. 895-913). PMLR.
 ## 2018
