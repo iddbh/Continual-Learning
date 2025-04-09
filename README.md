@@ -1,13 +1,18 @@
 # Continual Learning
 ## 2025
 * Muppidi, A., Zhang, Z. and Yang, H., 2025. [Fast trac: A parameter-free optimizer for lifelong reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b76d77e7095c6480ed827b85f0c2878-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.51169-51195.
+
 ## 2024
+
 * Muppidi, A., Zhang, Z. and Yang, H., 2024. [Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)
 . arXiv preprint arXiv:2405.16642. [[website](https://computationalrobotics.seas.harvard.edu/TRAC/) + [python](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file)]
 * Julian, J., Koh, Y.S. and Bifet, A., 2024, August. [Sketch-Based Replay Projection for Continual Learning](https://dl.acm.org/doi/pdf/10.1145/3637528.3671714). In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 1325-1335). [[python](https://github.com/jjul482/Sketched-Replay-Projection)]
 * Wang, L., Xie, J., Zhang, X., Huang, M., Su, H. and Zhu, J., 2024. [Hierarchical decomposition of prompt-based continual learning: Rethinking obscured sub-optimality](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9f8b5abc8e0926539ecbb492af7b2f1-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 36. [[python](https://github.com/thu-ml/HiDe-Prompt)]
 * Hartvigsen, T., Sankaranarayanan, S., Palangi, H., Kim, Y. and Ghassemi, M., 2024. [Aging with grace: Lifelong model editing with discrete key-value adaptors](https://proceedings.neurips.cc/paper_files/paper/2023/file/95b6e2ff961580e03c0a662a63a71812-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 36.
-* Elsayed, M. and Mahmood, A.R., 2024. [Addressing loss of plasticity and catastrophic forgetting in continual learning](https://arxiv.org/pdf/2404.00781). [[python](https://github.com/mohmdelsayed/upgd)] arXiv preprint arXiv:2404.00781.
+* Elsayed, M. and Mahmood, A.R., 2024.
+  [Addressing loss of plasticity and catastrophic forgetting in continual learning]().
+  In International Conference on Learning Representations.
+  * [[Python]](https://github.com/mohmdelsayed/upgd)
 * Wang, Zhenyi, Enneng Yang, Li Shen, and Heng Huang. [A comprehensive survey of forgetting in deep learning beyond continual learning](https://arxiv.org/pdf/2307.09218). [[github](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning)] IEEE Transactions on Pattern Analysis and Machine Intelligence (2024).
 ## 2023
 * Abbas, Z., Zhao, R., Modayil, J., White, A. and Machado, M.C., 2023, November. [Loss of plasticity in continual deep reinforcement learning](https://www.nature.com/articles/s41586-024-07711-7). In Conference on Lifelong Learning Agents (pp. 620-636). PMLR. [[python](https://github.com/shibhansh/loss-of-plasticity)]
