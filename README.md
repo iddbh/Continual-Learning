@@ -42,4 +42,6 @@
 
 ## 1950s
 
-* SELFRIDGE, O., 1958. [Pandemonium - A paradigm for learning](). In Symposium on the Mechanization of Thought Processes. National Physical Laboratory, UK.
+* SELFRIDGE, O., 1958.
+  [Pandemonium - A paradigm for learning](http://www.incompleteideas.net/papers/pandemonium2.pdf).
+  In Symposium on the Mechanization of Thought Processes. National Physical Laboratory, UK.
