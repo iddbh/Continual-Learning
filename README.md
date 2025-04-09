@@ -39,3 +39,7 @@
 * Cutkosky, A., 2019, June. [Combining online learning guarantees](https://proceedings.mlr.press/v99/cutkosky19b/cutkosky19b.pdf). In Conference on Learning Theory (pp. 895-913). PMLR.
 ## 2018
 * Cutkosky, A. and Orabona, F., 2018, July. [Black-box reductions for parameter-free online learning in banach spaces](https://proceedings.mlr.press/v75/cutkosky18a/cutkosky18a.pdf). In Conference On Learning Theory (pp. 1493-1529). PMLR.
+
+## 1950s
+
+* SELFRIDGE, O., 1958. [Pandemonium - A paradigm for learning](). In Symposium on the Mechanization of Thought Processes. National Physical Laboratory, UK.
