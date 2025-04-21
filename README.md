@@ -30,6 +30,8 @@
 * Zhang, Y., Pfahringer, B., Frank, E., Bifet, A., Lim, N.J.S. and Jia, Y., 2022, November. [Repeated augmented rehearsal: a simple but strong baseline for online continual learning](https://papers.neurips.cc/paper_files/paper/2022/file/5ebbbac62b968254093023f1c95015d3-Paper-Conference.pdf). In Proceedings of the 36th International Conference on Neural Information Processing Systems (pp. 14771-14783).[[python](https://github.com/YaqianZhang/RepeatedAugmentedRehearsal/tree/master)]
 * Gaya, J.B., Doan, T., Caccia, L., Soulier, L., Denoyer, L. and Raileanu, R., 2022. [Building a subspace of policies for scalable continual learning](https://arxiv.org/pdf/2211.10445). arXiv preprint arXiv:2211.10445.
 * Elsayed, M. and Mahmood, A.R., 2022. [Hesscale: Scalable computation of hessian diagonals](https://arxiv.org/pdf/2210.11639). arXiv preprint arXiv:2210.11639.
+* Wang, Z., Zhang, Z., Lee, C.Y., Zhang, H., Sun, R., Ren, X., Su, G., Perot, V., Dy, J. and Pfister, T., 2022. [Learning to prompt for continual learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Prompt_for_Continual_Learning_CVPR_2022_paper.pdf). In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 139-149).
+
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325. [[python](https://github.com/shibhansh/loss-of-plasticity)]
 * Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
