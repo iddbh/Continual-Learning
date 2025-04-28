@@ -14,6 +14,9 @@
   In International Conference on Learning Representations.
   * [[Python]](https://github.com/mohmdelsayed/upgd)
 * Wang, Zhenyi, Enneng Yang, Li Shen, and Heng Huang. [A comprehensive survey of forgetting in deep learning beyond continual learning](https://arxiv.org/pdf/2307.09218). [[github](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning)] IEEE Transactions on Pattern Analysis and Machine Intelligence (2024).
+* Bellitto, G., Proietto Salanitri, F., Pennisi, M., Boschini, M., Bonicelli, L., Porrello, A., Calderara, S., Palazzo, S. and Spampinato, C., 2024. [Saliency-driven experience replay for continual learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/bb1e9f32181a8d6a834670d5b3e1c48d-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.103356-103383.[[code](https://github.com/perceivelab/SER)]
+
+
 ## 2023
 * Abbas, Z., Zhao, R., Modayil, J., White, A. and Machado, M.C., 2023, November. [Loss of plasticity in continual deep reinforcement learning](https://www.nature.com/articles/s41586-024-07711-7). In Conference on Lifelong Learning Agents (pp. 620-636). PMLR. [[python](https://github.com/shibhansh/loss-of-plasticity)]
 * Irie, K., Csordás, R. and Schmidhuber, J., 2023. [Automating Continual Learning](https://openreview.net/pdf?id=5twh6pM4SR).
@@ -35,11 +38,14 @@
 ## 2021
 * Dohare, S., Sutton, R.S. and Mahmood, A.R., 2021. [Continual backprop: Stochastic gradient descent with persistent randomness](https://arxiv.org/abs/2108.06325). arXiv preprint arXiv:2108.06325. [[python](https://github.com/shibhansh/loss-of-plasticity)]
 * Gaya, J.B., Soulier, L. and Denoyer, L., 2021. [Learning a subspace of policies for online adaptation in reinforcement learning](https://arxiv.org/pdf/2110.05169). arXiv preprint arXiv:2110.05169.
+* Ebrahimi, S., Petryk, S., Gokul, A., Gan, W., Gonzalez, J.E., Rohrbach, M. and Darrell, T., 2021. [Remembering for the right reasons: Explanations reduce catastrophic forgetting](https://openreview.net/pdf?id=tHgJoMfy6nI). Applied AI letters, 2(4), p.e44.[[code](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)]
 ## 2020
 * Gupta, G., Yadav, K. and Paull, L., 2020. [Look-ahead meta learning for continual learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf). Advances in Neural Information Processing Systems, 33, pp.11588-11598.[[python](https://github.com/montrealrobotics/La-MAML?tab=readme-ov-file)]
 * Ash, J. and Adams, R.P., 2020. [On warm-starting neural network training](https://proceedings.neurips.cc/paper/2020/file/288cd2567953f06e460a33951f55daaf-Paper.pdf). Advances in neural information processing systems, 33, pp.3884-3894.
+* Harrison, J., Sharma, A., Finn, C. and Pavone, M., 2020. [Continuous meta-learning without tasks](https://proceedings.neurips.cc/paper/2020/file/cc3f5463bc4d26bc38eadc8bcffbc654-Paper.pdf). Advances in neural information processing systems, 33, pp.17571-17581.[[code](https://github.com/StanfordASL/moca)]
 ## 2019
 * Cutkosky, A., 2019, June. [Combining online learning guarantees](https://proceedings.mlr.press/v99/cutkosky19b/cutkosky19b.pdf). In Conference on Learning Theory (pp. 895-913). PMLR.
+* Aljundi, R., Lin, M., Goujaud, B. and Bengio, Y., 2019. [Gradient based sample selection for online continual learning](https://proceedings.neurips.cc/paper_files/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf). Advances in neural information processing systems, 32.[[code](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)]
 ## 2018
 * Cutkosky, A. and Orabona, F., 2018, July. [Black-box reductions for parameter-free online learning in banach spaces](https://proceedings.mlr.press/v75/cutkosky18a/cutkosky18a.pdf). In Conference On Learning Theory (pp. 1493-1529). PMLR.
 
