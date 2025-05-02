@@ -15,6 +15,7 @@
   * [[Python]](https://github.com/mohmdelsayed/upgd)
 * Wang, Zhenyi, Enneng Yang, Li Shen, and Heng Huang. [A comprehensive survey of forgetting in deep learning beyond continual learning](https://arxiv.org/pdf/2307.09218). [[github](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning)] IEEE Transactions on Pattern Analysis and Machine Intelligence (2024).
 * Bellitto, G., Proietto Salanitri, F., Pennisi, M., Boschini, M., Bonicelli, L., Porrello, A., Calderara, S., Palazzo, S. and Spampinato, C., 2024. [Saliency-driven experience replay for continual learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/bb1e9f32181a8d6a834670d5b3e1c48d-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.103356-103383.[[code](https://github.com/perceivelab/SER)]
+* Zhuang, H., Chen, Y., Fang, D., He, R., Tong, K., Wei, H., Zeng, Z. and Chen, C., 2024. [GACL: Exemplar-free generalized analytic continual learning](https://arxiv.org/abs/2403.15706). Advances in Neural Information Processing Systems, 37, pp.83024-83047.[[code](https://github.com/CHEN-YIZHU/GACL)]
 
 
 ## 2023
