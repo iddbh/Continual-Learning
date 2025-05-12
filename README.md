@@ -1,6 +1,7 @@
 # Continual Learning
 ## 2025
 * Muppidi, A., Zhang, Z. and Yang, H., 2025. [Fast trac: A parameter-free optimizer for lifelong reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b76d77e7095c6480ed827b85f0c2878-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.51169-51195.
+* Feng, T., Li, W., Zhu, D., Yuan, H., Zheng, W., Zhang, D. and Tang, J., 2025. [ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think](https://arxiv.org/pdf/2501.01045). arXiv preprint arXiv:2501.01045.
 
 ## 2024
 
