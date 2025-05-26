@@ -2,6 +2,7 @@
 ## 2025
 * Muppidi, A., Zhang, Z. and Yang, H., 2025. [Fast trac: A parameter-free optimizer for lifelong reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b76d77e7095c6480ed827b85f0c2878-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.51169-51195.
 * Feng, T., Li, W., Zhu, D., Yuan, H., Zheng, W., Zhang, D. and Tang, J., 2025. [ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think](https://arxiv.org/pdf/2501.01045). arXiv preprint arXiv:2501.01045.
+* Yichen Wu, Hongming Piao, Long-Kai Huang, Renzhen Wang, Wanhua Li, Hanspeter Pfister, Deyu Meng, Kede Ma, and Ying Wei. [Sd-lora: Scalable decoupled low-rank adaptation for class incremental learning](https://arxiv.org/pdf/2501.13198). ICLR, 2025. 2, 3, 6,7[[code](https://github.com/WuYichen-97/SD-Lora-CL)]
 
 ## 2024
 
@@ -18,6 +19,7 @@
 * Bellitto, G., Proietto Salanitri, F., Pennisi, M., Boschini, M., Bonicelli, L., Porrello, A., Calderara, S., Palazzo, S. and Spampinato, C., 2024. [Saliency-driven experience replay for continual learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/bb1e9f32181a8d6a834670d5b3e1c48d-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.103356-103383.[[code](https://github.com/perceivelab/SER)]
 * Zhuang, H., Chen, Y., Fang, D., He, R., Tong, K., Wei, H., Zeng, Z. and Chen, C., 2024. [GACL: Exemplar-free generalized analytic continual learning](https://arxiv.org/abs/2403.15706). Advances in Neural Information Processing Systems, 37, pp.83024-83047.[[code](https://github.com/CHEN-YIZHU/GACL)]
 * Zhou, D.W., Cai, Z.W., Ye, H.J., Zhan, D.C. and Liu, Z., 2025. [Revisiting class-incremental learning with pre-trained models: Generalizability and adaptivity are all you need](https://arxiv.org/pdf/2303.07338). International Journal of Computer Vision, 133(3), pp.1012-1032.[[code](https://github.com/LAMDA-CL/RevisitingCIL)]
+* Liang, Y.S. and Li, W.J., 2024. [Inflora: Interference-free low-rank adaptation for continual learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 23638-23647).[[code](https://github.com/liangyanshuo/InfLoRA)]
 
 
 ## 2023
