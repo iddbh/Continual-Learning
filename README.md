@@ -3,6 +3,7 @@
 * Muppidi, A., Zhang, Z. and Yang, H., 2025. [Fast trac: A parameter-free optimizer for lifelong reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b76d77e7095c6480ed827b85f0c2878-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 37, pp.51169-51195.
 * Feng, T., Li, W., Zhu, D., Yuan, H., Zheng, W., Zhang, D. and Tang, J., 2025. [ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think](https://arxiv.org/pdf/2501.01045). arXiv preprint arXiv:2501.01045.
 * Yichen Wu, Hongming Piao, Long-Kai Huang, Renzhen Wang, Wanhua Li, Hanspeter Pfister, Deyu Meng, Kede Ma, and Ying Wei. [Sd-lora: Scalable decoupled low-rank adaptation for class incremental learning](https://arxiv.org/pdf/2501.13198). ICLR, 2025.[[code](https://github.com/WuYichen-97/SD-Lora-CL)]
+* Liao, H., He, S., Hao, Y., Zhao, J. and Liu, K., 2025. [DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2502.11482?). arXiv preprint arXiv:2502.11482.[[code](https://github.com/Xnhyacinth/DATA)]
 
 ## 2024
 
