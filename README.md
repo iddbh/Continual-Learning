@@ -4,8 +4,7 @@
 * Feng, T., Li, W., Zhu, D., Yuan, H., Zheng, W., Zhang, D. and Tang, J., 2025. [ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think](https://arxiv.org/pdf/2501.01045). arXiv preprint arXiv:2501.01045.
 * Yichen Wu, Hongming Piao, Long-Kai Huang, Renzhen Wang, Wanhua Li, Hanspeter Pfister, Deyu Meng, Kede Ma, and Ying Wei. [Sd-lora: Scalable decoupled low-rank adaptation for class incremental learning](https://arxiv.org/pdf/2501.13198). ICLR, 2025.[[code](https://github.com/WuYichen-97/SD-Lora-CL)]
 * Liao, H., He, S., Hao, Y., Zhao, J. and Liu, K., 2025. [DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2502.11482?). arXiv preprint arXiv:2502.11482.[[code](https://github.com/Xnhyacinth/DATA)]
-* He, J., Duan, Z. and Zhu, F., 2025. [CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.pdf). In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 30534-30544).[[code](https://github.com/JiangpengHe/
-CL-LoRA)]
+* He, J., Duan, Z. and Zhu, F., 2025. [CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.pdf). In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 30534-30544).[[code](https://github.com/JiangpengHe/CL-LoRA)]
 
 ## 2024
 
