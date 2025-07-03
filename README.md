@@ -22,6 +22,7 @@
 * Zhuang, H., Chen, Y., Fang, D., He, R., Tong, K., Wei, H., Zeng, Z. and Chen, C., 2024. [GACL: Exemplar-free generalized analytic continual learning](https://arxiv.org/abs/2403.15706). Advances in Neural Information Processing Systems, 37, pp.83024-83047.[[code](https://github.com/CHEN-YIZHU/GACL)]
 * Zhou, D.W., Cai, Z.W., Ye, H.J., Zhan, D.C. and Liu, Z., 2025. [Revisiting class-incremental learning with pre-trained models: Generalizability and adaptivity are all you need](https://arxiv.org/pdf/2303.07338). International Journal of Computer Vision, 133(3), pp.1012-1032.[[code](https://github.com/LAMDA-CL/RevisitingCIL)]
 * Liang, Y.S. and Li, W.J., 2024. [Inflora: Interference-free low-rank adaptation for continual learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 23638-23647).[[code](https://github.com/liangyanshuo/InfLoRA)]
+* Li, J., Lai, Y., Wang, R., Shui, C., Sahoo, S., Ling, C.X., Yang, S., Wang, B., Gagné, C. and Zhou, F., 2024. [Hessian aware low-rank perturbation for order-robust continual learning](https://arxiv.org/pdf/2311.15161). IEEE Transactions on Knowledge and Data Engineering.[[code](https://github.com/lijiaqi/HALRP)]
 
 
 ## 2023
