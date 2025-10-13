@@ -26,6 +26,7 @@
 * Liang, Y.S. and Li, W.J., 2024. [Inflora: Interference-free low-rank adaptation for continual learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 23638-23647).[[code](https://github.com/liangyanshuo/InfLoRA)]
 * Li, J., Lai, Y., Wang, R., Shui, C., Sahoo, S., Ling, C.X., Yang, S., Wang, B., Gagné, C. and Zhou, F., 2024. [Hessian aware low-rank perturbation for order-robust continual learning](https://arxiv.org/pdf/2311.15161). IEEE Transactions on Knowledge and Data Engineering.[[code](https://github.com/lijiaqi/HALRP)]
 * Li, Q., Peng, Y. and Zhou, J., 2024. Fcs: Feature calibration and separation for non-exemplar class incremental learning. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 28495-28504).
+* Xu, K., Zou, X., Peng, Y. and Zhou, J., 2024. Distribution-aware knowledge prototyping for non-exemplar lifelong person re-identification. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16604-16613).
 
 
 ## 2023
