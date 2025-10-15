@@ -7,6 +7,7 @@
 * He, J., Duan, Z. and Zhu, F., 2025. [CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.pdf). In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 30534-30544).[[code](https://github.com/JiangpengHe/CL-LoRA)]
 * Wu, F., Cheng, L., Tang, S., Zhu, X., Fang, C., Zhang, D. and Wang, M., 2025. [Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning](https://arxiv.org/pdf/2502.07560). arXiv preprint arXiv:2502.07560.[[code](https://github.com/fwu11/MACIL.git)]
 * Cheng, Q., Wan, Y., Wu, L., Hou, C. and Zhang, L., 2025. [Continuous Subspace Optimization for Continual Learning](https://arxiv.org/pdf/2505.11816). arXiv preprint arXiv:2505.11816.
+* He, R., Fang, D., Xu, Y., Cui, Y., Li, M., Chen, C., Zeng, Z. and Zhuang, H., 2025. Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning. arXiv preprint arXiv:2503.05423.
 
 ## 2024
 
